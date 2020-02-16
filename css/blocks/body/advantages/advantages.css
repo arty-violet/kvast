@@ -57,17 +57,17 @@
 }
 
 .advantages__item--1::before {
-  background: url("../../../img/icon-brew.png") no-repeat;
+  background: url("../../../../img/icon-brew.png") no-repeat;
 }
 
 .advantages__item--2::before {
   left: 95px;
-  background: url("../../../img/icon-matreshka.png") no-repeat;
+  background: url("../../../../img/icon-matreshka.png") no-repeat;
 }
 
 .advantages__item--3::before {
   left: 95px;
-  background: url("../../../img/icon-thumbsup.png") no-repeat;
+  background: url("../../../../img/icon-thumbsup.png") no-repeat;
 }
 
 .advantages__title {

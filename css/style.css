@@ -5,12 +5,12 @@
 @import url(blocks/logo/logo.css);
 @import url(blocks/site-menu/site-menu.css);
 @import url(blocks/header/header.css);
-@import url(blocks/new-products/new-products.css);
-@import url(blocks/advantages/advantages.css);
-@import url(blocks/history/history.css);
-@import url(blocks/reviews/reviews.css);
-@import url(blocks/assortment/assortment.css);
-@import url(blocks/feedback/feedback.css);
+@import url(blocks/body/new-products/new-products.css);
+@import url(blocks/body/advantages/advantages.css);
+@import url(blocks/body/history/history.css);
+@import url(blocks/body/reviews/reviews.css);
+@import url(blocks/body/assortment/assortment.css);
+@import url(blocks/body/feedback/feedback.css);
 @import url(blocks/footer/footer.css);
 
 

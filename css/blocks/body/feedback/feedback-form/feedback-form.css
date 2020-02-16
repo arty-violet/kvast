@@ -94,7 +94,7 @@
 
 .feedback-form__checkbox:checked + .feedback-form__label::before {
   background-color: rgba(0, 0, 0, 0.15);
-  background-image: url("../../../../img/check-mark.png");
+  background-image: url("../../../../../img/check-mark.png");
   background-repeat: no-repeat;
   background-position: center;
 }
